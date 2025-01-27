@@ -3,17 +3,17 @@
 
 #include "rclcpp/rclcpp.hpp"
 
+
 namespace robot
 {
 
 class MapMemoryCore {
-  public:
+public:
     explicit MapMemoryCore(const rclcpp::Logger& logger);
-
-  private:
+private:
     rclcpp::Logger logger_;
 };
 
-}  
+}
 
 #endif  
