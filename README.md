@@ -1,4 +1,12 @@
 # WATonomous ASD Admissions Assignment
+# Authors:
+* Danial Suhail
+* Shane Barakat
+* Simon Akhter
+
+## Video Demonstration
+
+https://github.com/user-attachments/assets/00b95efa-8374-4567-8d98-ce7a4615f58b
 
 ## Prerequisite Installation
 These steps are to setup the monorepo to work on your own PC. We utilize docker to enable ease of reproducibility and deployability.
